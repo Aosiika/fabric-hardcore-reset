@@ -1,0 +1,14 @@
+{
+  "hardcore_reset.death.title": "§c§lYOU DIED!",
+  "hardcore_reset.death.countdown": "§eResetting in §c§l%1$ss §7| §fAttempt #%2$s (§a%3$s§f) §7➔ §bAttempt #%4$s",
+  "hardcore_reset.death.generating": "§a§lGENERATING NEW WORLD!",
+  "hardcore_reset.death.loading": "§bLoading Attempt #%s...",
+  "hardcore_reset.disconnect.releasing_files": "§eReleasing world files...",
+  "hardcore_reset.hud.title": "§c§l⚔ HARDCORE RUN ⚔",
+  "hardcore_reset.hud.attempt": "§fAttempt: §e#%s",
+  "hardcore_reset.hud.time": "§fTime: §a%s",
+  "hardcore_reset.hud.countdown": "§cResetting: §e§l%ss",
+  "hardcore_reset.hud.last_run": "§7Last: §8%s",
+  "hardcore_reset.world.name": "Hardcore - Attempt #%s",
+  "hardcore_reset.command.reset_success": "§a[Hardcore Reset] The attempt counter and run timer have been successfully reset. Next attempt: #1."
+}

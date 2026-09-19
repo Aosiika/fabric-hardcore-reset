@@ -1,0 +1,14 @@
+{
+  "hardcore_reset.death.title": "§c§l¡HAS MUERTO!",
+  "hardcore_reset.death.countdown": "§eReiniciando en §c§l%1$ss §7| §fIntento #%2$s (§a%3$s§f) §7➔ §bIntento #%4$s",
+  "hardcore_reset.death.generating": "§a§l¡GENERANDO NUEVO MUNDO!",
+  "hardcore_reset.death.loading": "§bCargando Intento #%s...",
+  "hardcore_reset.disconnect.releasing_files": "§eLiberando archivos del mapa...",
+  "hardcore_reset.hud.title": "§c§l⚔ HARDCORE RUN ⚔",
+  "hardcore_reset.hud.attempt": "§fIntento: §e#%s",
+  "hardcore_reset.hud.time": "§fTiempo: §a%s",
+  "hardcore_reset.hud.countdown": "§cReiniciando: §e§l%ss",
+  "hardcore_reset.hud.last_run": "§7Última: §8%s",
+  "hardcore_reset.world.name": "Hardcore - Intento #%s",
+  "hardcore_reset.command.reset_success": "§a[Hardcore Reset] El contador de intentos y el tiempo de la run se han reiniciado con éxito. Próximo intento: #1."
+}

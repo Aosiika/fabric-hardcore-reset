@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "hardcore_reset",
+	"version": "${version}",
+	"name": "Hardcore Reset",
+	"description": "Reinicia y elimina el mundo al morir en modo Hardcore de forma fluida y sin bloqueos de archivo.",
+	"authors": [
+		"Aosika"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/"
+	},
+	"license": "MIT",
+	"icon": "assets/hardcore_reset/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.aosika.hardcorereset.HardcoreResetMod"
+		],
+		"client": [
+			"com.aosika.hardcorereset.HardcoreResetClient"
+		]
+	},
+	"mixins": [
+		"hardcore_reset.mixins.json",
+		{
+			"config": "hardcore_reset.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
