@@ -32,6 +32,20 @@ Have you ever died in a Minecraft Hardcore world, only to face the tedious routi
 * 🛠️ **Simple In-Game Command**:
   * `/hardcore reset` — Resets your attempt counter and run timer back to Attempt #1. Works directly in Hardcore mode without requiring cheats, creative mode, or opening to LAN.
 
+### 📸 Screenshots
+
+1. **Attempt #1 with in-game HUD scoreboard:**
+![Attempt 1 Gameplay HUD](1.png)
+
+2. **10-second spectator death screen with live countdown:**
+![Spectator Death Limbo](2.png)
+
+3. **Automated instant respawn in fresh world (Attempt #2):**
+![Attempt 2 Loaded](3.png)
+
+4. **Resetting attempt and timer with `/hardcore reset`:**
+![Command Reset Output](4.png)
+
 ### 📦 Installation
 
 1. Download and install the [Fabric Loader](https://fabricmc.net/use/installer/).
@@ -71,6 +85,20 @@ If this mod saved you time or made your Hardcore runs more fun, please consider 
 * 🌐 **Soporte de Idiomas**: Español (`es_es`) e Inglés (`en_us`). Si juegas en otro idioma, usará el inglés por defecto.
 * 🛠️ **Comando Cómodo**:
   * `/hardcore reset` — Reinicia el contador de intentos y el cronómetro al Intento #1. Funciona directamente en Hardcore sin necesidad de trucos, creativo ni abrir a LAN.
+
+### 📸 Capturas de pantalla
+
+1. **Intento #1 con HUD / Scoreboard en directo:**
+![Intento 1 en partida](1.png)
+
+2. **Limbo de 10 segundos en espectador con cuenta atrás:**
+![Pantalla de muerte](2.png)
+
+3. **Carga automática del nuevo mundo (Intento #2):**
+![Intento 2 cargado](3.png)
+
+4. **Reinicio de estadísticas con `/hardcore reset`:**
+![Comando de reinicio](4.png)
 
 ### 📦 Instalación
 
