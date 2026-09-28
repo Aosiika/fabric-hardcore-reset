@@ -91,7 +91,7 @@ public class HardcoreResetMod implements ModInitializer {
         try {
             player.setHealth(player.getMaxHealth());
             player.removeAllEffects();
-            player.setInvulnerable(true);
+            player.setPermanentlyInvulnerable(true);
             player.setGameMode(GameType.SPECTATOR);
 
             Path worldDirectory = server.getWorldPath(LevelResource.ROOT).toAbsolutePath();
